@@ -160,7 +160,7 @@ class snake_ladder:
     def welcome_to_the_game(self):
 
         message = """
-        Welcome to Saanp Seedhi.
+        Welcome to sAnp sIDhI.
 
         GAME RULES
            1. When a player lands at the head of a snake, he shall reposition himself
